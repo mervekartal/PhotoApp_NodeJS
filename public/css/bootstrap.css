@@ -514,7 +514,7 @@ samp {
 
 code {
   font-size: 87.5%;
-  color: #e83e8c;
+  color: #4f8fd9;
   word-break: break-word;
 }
 
@@ -1659,31 +1659,31 @@ pre code {
 .table-danger,
 .table-danger > th,
 .table-danger > td {
-  background-color: #f5c6cb;
+  background-color: #acd0f8;
 }
 
 .table-hover .table-danger:hover {
-  background-color: #f1b0b7;
+  background-color: #acd0f8;
 }
 
 .table-hover .table-danger:hover > td,
 .table-hover .table-danger:hover > th {
-  background-color: #f1b0b7;
+  background-color: #acd0f8;
 }
 
 .table-light,
 .table-light > th,
 .table-light > td {
-  background-color: #fdfdfe;
+  background-color: #acd0f8;
 }
 
 .table-hover .table-light:hover {
-  background-color: #ececf6;
+  background-color: #acd0f8;
 }
 
 .table-hover .table-light:hover > td,
 .table-hover .table-light:hover > th {
-  background-color: #ececf6;
+  background-color: #acd0f8;
 }
 
 .table-dark,
@@ -2198,7 +2198,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
 }
 
 .was-validated .custom-control-input:invalid ~ .custom-control-label::before, .custom-control-input.is-invalid ~ .custom-control-label::before {
-  background-color: #efa2a9;
+  background-color: #acd0f8;
 }
 
 .was-validated .custom-control-input:invalid ~ .invalid-feedback,
